@@ -1,10 +1,9 @@
 _commit: 0.1.7
 _src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
-author: MAPP Metabolomics Unit
 common_filename_pattern: '*mapp_01_*.mzML'
 email: pierre-marie.allard@unifr.ch
 gap_filling: true
-git_repo_path: /Users/pma/git_repos/commons-teaching
+git_repo_path: /home/allardpm/git_repos/commons-teaching
 github_username: commons-teaching
 gnps_job_id: ''
 ionization_mode: positive
