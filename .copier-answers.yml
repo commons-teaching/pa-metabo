@@ -1,0 +1,26 @@
+_commit: 0.1.7
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: MAPP Metabolomics Unit
+common_filename_pattern: '*mapp_01_*.mzML'
+email: pierre-marie.allard@unifr.ch
+gap_filling: true
+git_repo_path: /Users/pma/git_repos/commons-teaching
+github_username: commons-teaching
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00176
+mapp_batch_description: Untargeted metabolomics of Pseudomonas aeruginosa - positive
+    mode
+mapp_project: mapp_project_00068
+noise_level: 5000000.0
+repository_name: pa-metabo
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "pa-metabo"
+recorded_author: "MAPP Metabolomics Unit"
+recorder_email: "pierre-marie.allard@unifr.ch"
+recorded_github_username: "commons-teaching"
+recorded_mapp_project: "mapp_project_00068"
+recorded_mapp_batch: "mapp_batch_00176"
+
+
