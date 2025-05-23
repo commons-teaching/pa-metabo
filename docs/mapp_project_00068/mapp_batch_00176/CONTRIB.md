@@ -26,7 +26,7 @@ cd ./docs/mapp_project_00068/mapp_batch_00176/results/mzmine
 And proceed to awk black magic to update the mzmine xml file
 
 ```bash
-awk -v dir="/msdata/mapp_project_00068/mapp_batch_00176" '
+awk -v dir="/Users/pma/Dropbox/UniFr/Teachings/Master/BEFRI/bioinfo/2022/material/PA_dataset/MS_data/converted_data_mzML" '
 BEGIN {
   cmd = "ls " dir "/*.mzML"
   while (cmd | getline file) {
