@@ -1,0 +1,80 @@
+{
+  "context": "Bacteria",
+  "governing_code": "ICNP",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "pseudomonas aeruginosa"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pseudomonas aeruginosa",
+          "nomenclature_code": "ICNP",
+          "score": 1.0,
+          "search_string": "pseudomonas aeruginosa",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pseudomonas aeruginosa",
+            "ott_id": 216671,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Bacillus aeruginosus",
+              "Bacillus pyocyaneus",
+              "Bacterium aeruginosum",
+              "Bacterium pyocyaneum",
+              "Micrococcus pyocyaneus",
+              "Pseudomonas polycolor",
+              "Pseudomonas pyocyanea",
+              "Pseudomonas sp. 2_1_26",
+              "Pseudomonas sp. ACP_02",
+              "Pseudomonas sp. CRRI 93",
+              "Pseudomonas sp. HSA1/2016",
+              "Pseudomonas sp. NCIM 2036",
+              "Pseudomonas sp. NCIM 2862",
+              "Pseudomonas sp. PR_01",
+              "Pseudomonas sp. PSE5",
+              "Pseudomonas sp. RV3",
+              "Pseudomonas sp. UFT2/2016",
+              "bacterium ASFP-37",
+              "bacterium ASFP-38",
+              "bacterium ASFP-45",
+              "bacterium ASFP-46",
+              "bacterium ASFP-48",
+              "bacterium CRM125",
+              "probable synonym or variety: \"Pseudomonas polycolor\" Clara 1930"
+            ],
+            "tax_sources": [
+              "silva:JQ397282",
+              "ncbi:287",
+              "gbif:3223154",
+              "irmng:10843791"
+            ],
+            "unique_name": "Pseudomonas aeruginosa"
+          }
+        }
+      ],
+      "name": "pseudomonas aeruginosa"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft2",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "pseudomonas aeruginosa"
+  ],
+  "unmatched_names": []
+}
